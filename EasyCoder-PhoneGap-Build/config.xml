@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<widget xmlns="http://www.w3.org/ns/widgets"
+        xmlns:gap="http://www.phonegap.com/ns/1.0"
+        id="com.ai1urophi1e.easycoder"
+        versionCode="1"
+        version="1.0">
+
+<platform name="android">
+<preference name="android-targetSdkVersion" value="28" />
+<preference name="android-minSdkVersion" value="14" />
+<preference name="orientation" value="portrait" />
+</platform>
+
+<icon src="icon.png" />
+
+<name>EasyCoder</name>
+
+<description>EasyCoder</description>
+
+<author>ai1urophi1e</author>
+
+</widget>
